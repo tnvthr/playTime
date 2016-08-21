@@ -1,2 +1,2 @@
 new ver : 1.0
-playTime.js 제작중 입니다.
+playTime.js / 제작중 입니다.
