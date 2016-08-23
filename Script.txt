@@ -1,0 +1,15 @@
+제작 스크립트 목록 :
+Back.js
+NightPVP.js
+Notepad.js
+ProfanityAlert.js
+Calculator.js
+ShowTime.js
+PlayTime.js
+
+현재 배포 스크립트 목록 :
+Back.js
+NightPVP.js
+Notepad.js
+ProfanityAlert.js
+PlayTime.js
