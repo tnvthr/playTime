@@ -1,13 +1,6 @@
-제작 스크립트 목록 :
-Back.js
-NightPVP.js
-Notepad.js
-ProfanityAlert.js
-Calculator.js
-ShowTime.js
-PlayTime.js
+스크립트 사용 파일 경로
+/storage/emulated/0/Woods/playTime
 
-현재 배포 스크립트 목록 :
-Back.js
-Notepad.js
+
+현재 스크립트 목록 :
 PlayTime.js
