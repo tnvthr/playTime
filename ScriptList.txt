@@ -1,6 +1,5 @@
 스크립트 사용 파일 경로
 /storage/emulated/0/Woods/playTime
 
-
-현재 스크립트 목록 :
+현재 공유 스크립트 목록 :
 PlayTime.js
